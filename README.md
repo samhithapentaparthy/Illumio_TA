@@ -43,7 +43,7 @@ python main.py
 ```
 ## 5. Output:
 The results will be saved in the output folder <br><br>
-port_protocol_count.csv will contain the counts of port/protocol combinations <br>
+port_protocol_count.csv will contain the counts of port and protocol combinations <br>
 tag_count.csv will contain the counts of tags <br>
 ## 6. Verify:
 Open the generated CSV files in a text editor or spreadsheet application to verify the results
