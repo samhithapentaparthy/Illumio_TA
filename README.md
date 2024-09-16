@@ -2,9 +2,9 @@
 Illumio Technical Assessment Code
 
 # Assumptions
-The flow logs have consistent data and follow the guidelines listed in the AWS user guide <br>
-The 6th field is considered as destination port and 8th field is considered as protocol based on the provided sample flows <br>
-All lines in the input logs file are valid lines <br>
+- The flow logs have consistent data and follow the guidelines listed in the AWS user guide <br>
+- The **6th field** is considered as **destination port** and **8th field** is considered as **protocol** based on the provided sample flows <br>
+- All lines in the input logs file are valid lines <br>
 
 # File Structure
 ```
