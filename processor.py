@@ -15,7 +15,7 @@ def count_tags(flow_log_file, lookup_dict):
     with open(flow_log_file, mode='r') as file:
         for line in file:
             fields = line.split()
-            dst_port = fields[5]  
+            dst_port = fields[6]  
             protocol_number = fields[7]  
 
             protocol = convert_protocol(protocol_number).lower()
@@ -39,7 +39,7 @@ def count_port_protocol_combinations(flow_log_file):
     with open(flow_log_file, mode='r') as file:
         for line in file:
             fields = line.split()
-            dst_port = fields[5]  
+            dst_port = fields[6]  
             protocol_number = fields[7]  
 
             protocol = convert_protocol(protocol_number).lower()
