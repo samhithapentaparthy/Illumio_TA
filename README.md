@@ -49,3 +49,7 @@ tag_count.csv will contain the counts of tags <br>
 ## 6. Verify:
 Open the generated CSV files in a text editor or spreadsheet application to verify the results
 
+# Links
+AWS User Guide https://docs.aws.amazon.com/vpc/latest/userguide/flow-log-records.html <br>
+Protocol Numbers https://www.iana.org/assignments/protocol-numbers/protocol-numbers.xhtml
+
