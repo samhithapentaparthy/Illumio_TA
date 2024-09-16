@@ -12,7 +12,8 @@ Illumio Technical Assessment Code
 ├── lookup_parser.py              
 ├── processor.py         
 ├── protocol_converter.py         
-├── output_writer.py              
+├── output_writer.py
+├── README.md            
 ├── data/
 │   ├── logs.txt         
 │   └── lookup_table.csv          
