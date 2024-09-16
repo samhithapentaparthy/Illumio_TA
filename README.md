@@ -34,7 +34,7 @@ git clone https://github.com/samhithapentaparthy/Illumio_TA.git
 ## 2. Install Dependencies:
 Ensure you have Python installed. No additional library dependencies
 ## 3. Input Files:
-Place your flow logs file (logs.txt) and lookup table file (lookup_table.txt) into the data folder <br>
+Place your flow logs file (logs.txt) and lookup table file (lookup_table.csv) into the data folder <br>
 Ensure that lookup_table.csv is in a comma-separated format and logs.txt follows the expected log structure <br> <br>
 Note: The sample files provided are present to run code directly <br>
 ## 4. Run the Code:
